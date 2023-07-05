@@ -1,0 +1,60 @@
+[33mcommit a2162bffa5baae557676921a8afc544c00d4ecd3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: b700eec a3cf436
+Author: Linesh14 <meshramlinesh98@gmail.com>
+Date:   Wed Jul 5 01:46:46 2023 +0530
+
+    Merge branch 'master' of github.com:Linesh14/git-essentials
+
+[33mcommit b700eec9692f769467f007b9a8c014b5f2679dce[m
+Author: Linesh14 <meshramlinesh98@gmail.com>
+Date:   Wed Jul 5 01:36:48 2023 +0530
+
+    Added a new empty file
+
+[33mcommit a3cf436976ec366e2ed0cfe9f5e2123ef13491a4[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Linesh14 <138431242+Linesh14@users.noreply.github.com>
+Date:   Wed Jul 5 01:09:11 2023 +0530
+
+    Update new-branch-file.txt
+
+[33mcommit c578af7c7034b5e9d55dab7bbf4606f4b145d654[m
+Author: Linesh14 <138431242+Linesh14@users.noreply.github.com>
+Date:   Wed Jul 5 00:58:24 2023 +0530
+
+    Updated README.me
+
+[33mcommit 643aaaf07b3eb3948a54a06ac075f48d9b469eee[m[33m ([m[1;31morigin/new-branch[m[33m, [m[1;32mnew-branch[m[33m)[m
+Author: Linesh14 <meshramlinesh98@gmail.com>
+Date:   Wed Jul 5 00:12:30 2023 +0530
+
+    New branch file
+
+[33mcommit 0a60fabac7f8a287f5da9123ae0349b9de84e998[m[33m ([m[1;32mnew-branch-anythingelse[m[33m)[m
+Author: Linesh14 <meshramlinesh98@gmail.com>
+Date:   Tue Jul 4 18:48:45 2023 +0530
+
+    Second change to this file
+
+[33mcommit 7688797e8206ab41951521a67360634a34a883cd[m
+Author: Linesh14 <meshramlinesh98@gmail.com>
+Date:   Tue Jul 4 18:38:08 2023 +0530
+
+    First is the first official push
+
+[33mcommit 2e47de623b5d9a093e3842405a4357c62308eca6[m
+Author: Linesh14 <meshramlinesh98@gmail.com>
+Date:   Mon Jul 3 17:26:43 2023 +0530
+
+    Add first-push.txt
+
+[33mcommit 008fdaeb8f8be001a4a4a85b0dacc5a9ff70f6af[m
+Author: Linesh14 <meshramlinesh98@gmail.com>
+Date:   Mon Jul 3 16:53:39 2023 +0530
+
+    Add first-push.txt
+
+[33mcommit 25337b6c8ead894236447d2f4aea46b6e15399bf[m
+Author: Linesh14 <meshramlinesh98@gmail.com>
+Date:   Mon Jul 3 16:14:36 2023 +0530
+
+    First commit
